@@ -1,0 +1,38 @@
+.container{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+header{
+    height: 100px;
+    background-color: rgb(255, 232, 83);
+    text-align: center;
+    width: 100%;
+
+}
+.maindiv{
+    text-align: center;
+    margin: 15px 15px ;
+}
+footer{
+    background-color: rgb(255, 232, 83);
+    width: 100%;
+    height: 100px;
+    display: block;
+    justify-items: last baseline;
+    text-align: center;
+}
+#btn-translate{
+    background-color: rgb(255, 232, 83); ;
+    padding: 20PX 20px;
+    border: none;
+    margin-top: 20px;
+}
+#output{
+    height: 100px;
+    width: 750px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    margin-left: 230px;
+}
